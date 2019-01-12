@@ -1,0 +1,12 @@
+com\zhenxl\mapper\AttributeMapper.class
+com\zhenxl\mapper\ProductpicMapper.class
+com\zhenxl\mapper\AttributevalueMapper.class
+com\zhenxl\mapper\RoleMapper.class
+com\zhenxl\mapper\CategeryMapper.class
+com\zhenxl\mapper\ProductMapper.class
+com\zhenxl\mapper\OrderProductMapper.class
+com\zhenxl\mapper\ProductkuidMapper.class
+com\zhenxl\mapper\AddressMapper.class
+com\zhenxl\mapper\TransportMapper.class
+com\zhenxl\mapper\UserMapper.class
+com\zhenxl\mapper\OrderdetailMapper.class

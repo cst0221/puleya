@@ -1,0 +1,16 @@
+com\zhenxl\service\ProductpicService.class
+com\zhenxl\service\Impl\OrderProductServiceImpl.class
+com\zhenxl\service\Impl\ProductkuidServiceImpl.class
+com\zhenxl\service\ProductkuidService.class
+com\zhenxl\service\ProductService.class
+com\zhenxl\service\Impl\AttributeServiceImpl.class
+com\zhenxl\service\Impl\CategeryServiceImpl.class
+com\zhenxl\service\Impl\UserServiceImpl.class
+com\zhenxl\service\CategeryService.class
+com\zhenxl\service\AddressService.class
+com\zhenxl\service\Impl\AddressServiceImpl.class
+com\zhenxl\service\Impl\ProductpicServiceImpl.class
+com\zhenxl\service\AttributeService.class
+com\zhenxl\service\UserService.class
+com\zhenxl\service\Impl\ProductServiceImpl.class
+com\zhenxl\service\OrderProductService.class
